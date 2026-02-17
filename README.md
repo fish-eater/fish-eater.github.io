@@ -1,2 +1,2 @@
 # fish-eater.github.io
-github website
+moved to [eater.fish](https://eater.fish)
